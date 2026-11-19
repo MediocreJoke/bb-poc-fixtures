@@ -1,0 +1,13 @@
+{
+  "client_id": "https://mediocrejoke.github.io/bb-poc-fixtures/client-metadata.json",
+  "client_name": "Authorized bug-bounty test client (YesWeHack handle: goofy)",
+  "client_uri": "https://mediocrejoke.github.io/bb-poc-fixtures/",
+  "redirect_uris": [
+    "https://mediocrejoke.github.io/bb-poc-fixtures/callback.html"
+  ],
+  "token_endpoint_auth_method": "none",
+  "grant_types": ["authorization_code"],
+  "response_types": ["code"],
+  "scope": "mcp",
+  "application_type": "web"
+}
